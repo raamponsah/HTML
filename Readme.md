@@ -34,3 +34,27 @@ Block-level elements spans across the entire page horizontally.
 Inline-level elements spans as wide as the the inner text or element
 
 All elements have attributes or properties: the basic attributes that each element may have are id, class, style
+
+# Containers
+we have meaningful containers and meanimgless containers
+They are elements that can contain/house other elements.
+
+1. header
+   1. The header section is a meaningful container that is used to house main heading content
+2. Nav
+   1. This contains navigational elements
+3. aside
+    Contains or houses information that is tangential to the main content
+4. section 
+   1. Section is the direct opposite of the div
+5. article
+   1. 
+6. main
+7. footer
+
+meaningless
+div
+
+not a block level element
+span
+<span></span>
